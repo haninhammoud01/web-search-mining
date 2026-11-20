@@ -18,7 +18,7 @@ Tugas mata kuliah Pencarian dan Penambangan Web - disusun dengan metodologi CRIS
 
 Proyek ini mengumpulkan dan menyiapkan dataset **200 artikel berita** berbahasa Indonesia dari [detik.com](https://detik.com), untuk klasifikasi teks berita ke dalam dua kategori: **Sport** dan **Finance**, dengan representasi TF-IDF, PCA, SVD, dan skip-gram yang dibangun manual, serta aplikasi Streamlit.
 
-**📚 Baca dokumentasi lengkap →** [haninhammoud01.github.io/ppw](https://haninhammoud01.github.io/ppw/)
+**📚 Baca dokumentasi lengkap →** [haninhammoud01.github.io/ppw](https://haninhammoud01.github.io/web-search-mining/intro.html)
 
 ## 🗂️ Struktur Proyek
 

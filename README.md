@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📰 PPW - Web Search & Mining
+# 📰 Web Search & Mining
 
 **Klasifikasi Berita Indonesia: Sport vs Finance**
 
